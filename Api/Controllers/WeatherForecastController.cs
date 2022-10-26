@@ -34,7 +34,7 @@ namespace Api.Controllers
         [HttpGet]
         public string Hola()
         {
-            return "Hola maxi";
+            return "Hola Lau";
         }
     }
 }
