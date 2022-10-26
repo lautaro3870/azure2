@@ -25,3 +25,30 @@ C:\Users\Win\Desktop\Api\Api\obj\Debug\net6.0\refint\Api.dll
 C:\Users\Win\Desktop\Api\Api\obj\Debug\net6.0\Api.pdb
 C:\Users\Win\Desktop\Api\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
 C:\Users\Win\Desktop\Api\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Proyectos GitHub\azure2\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Proyectos GitHub\azure2\Api\bin\Debug\net6.0\appsettings.json
+C:\Proyectos GitHub\azure2\Api\bin\Debug\net6.0\Api.exe
+C:\Proyectos GitHub\azure2\Api\bin\Debug\net6.0\Api.deps.json
+C:\Proyectos GitHub\azure2\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Proyectos GitHub\azure2\Api\bin\Debug\net6.0\Api.dll
+C:\Proyectos GitHub\azure2\Api\bin\Debug\net6.0\Api.pdb
+C:\Proyectos GitHub\azure2\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Proyectos GitHub\azure2\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyectos GitHub\azure2\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyectos GitHub\azure2\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\Api.dll
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\Api.pdb
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Proyectos GitHub\azure2\Api\obj\Debug\net6.0\ref\Api.dll

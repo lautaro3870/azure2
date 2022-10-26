@@ -29,5 +29,12 @@ namespace Api.Controllers
             })
             .ToArray();
         }
+
+        [Route("/saludo")]
+        [HttpGet]
+        public string Hola()
+        {
+            return "Hola maxi";
+        }
     }
 }
