@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos GitHub\\azure2\\Api\\Api.csproj": {}
+    "C:\\Proyectos GitHub\\azure2\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos GitHub\\azure2\\Api\\Api.csproj": {
+    "C:\\Proyectos GitHub\\azure2\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos GitHub\\azure2\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Proyectos GitHub\\azure2\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Proyectos GitHub\\azure2\\Api\\Api.csproj",
+        "projectPath": "C:\\Proyectos GitHub\\azure2\\Api.csproj",
         "packagesPath": "C:\\Users\\Win\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos GitHub\\azure2\\Api\\obj\\",
+        "outputPath": "C:\\Proyectos GitHub\\azure2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
